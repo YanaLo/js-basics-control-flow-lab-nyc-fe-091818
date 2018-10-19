@@ -7,5 +7,7 @@ function scuberGreetingForFeet(numOfFeet){
   }else if(numOfFeet>2500){
     return 'No can do.'
   }
-  
+}
+function ternaryCheckCity(city){
+  if(city==="nyc")
 }
